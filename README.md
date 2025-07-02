@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I'm currently working on POUKAM-TECH SARL as a fullstack developer.<br>🤝 I'm looking for help with GLOOM SARL<br>🌱 I'm currently learn AWS cloud and expect to pass AWS Certification<br>👯 I'm open to freelancing projects.<br>⚡ Fun fact:  I like to share my knowledge and learn something new every day. <br>📫 Email: ngamaleu2011@gmail.com
+🔭 I'm currently working on XAFPAY LLC as a fullstack developer.<br>🤝 I'm looking for help with GLOOM SARL<br>🌱 I'm currently learn AWS cloud and expect to pass AWS Certification<br>👯 I'm open to freelancing projects.<br>⚡ Fun fact:  I like to share my knowledge and learn something new every day. <br>📫 Email: ngamaleu2011@gmail.com
 
 
 ## 🌐 Socials:
